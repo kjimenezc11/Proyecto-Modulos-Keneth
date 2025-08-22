@@ -1,3 +1,4 @@
+
 # Bibliotecas estándar de Python
 La biblioteca estándar de Python ofrece una amplia gama de módulos útiles que cubren diversas áreas. Aquí tienes algunos ejemplos de módulos comúnmente utilizados:
 
